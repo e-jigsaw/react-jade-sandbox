@@ -1,0 +1,18 @@
+{
+  "name": "react-jade-sandbox",
+  "version": "0.0.1",
+  "authors": [
+    "jigsaw (http://jgs.me)"
+  ],
+  "description": "react with jade sample",
+  "main": "index.js",
+  "license": "MIT",
+  "homepage": "http://jgs.me",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
